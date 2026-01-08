@@ -46,20 +46,6 @@ Full-stack developer with a blend of software and creative experience, building 
 
 <div align="center">
 
-## GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SamarthBengle)](https://git.io/streak-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SamarthBengle&color=blueviolet&style=for-the-badge)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamarthBengle&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-
-</div>
-
----
-
-<div align="center">
-
 ## Tech Stack
 
 ### Languages
@@ -110,6 +96,20 @@ Full-stack developer with a blend of software and creative experience, building 
 ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SamarthBengle)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SamarthBengle&color=blueviolet&style=for-the-badge)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamarthBengle&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
