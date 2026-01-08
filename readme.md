@@ -4,9 +4,7 @@
 
 ### Full-Stack Developer | AI Enthusiast | MSc in Computer Engineering @ University of Paderborn
 
-**Currently:** Full-Stack Working Student
-**Location:** Paderborn, Germany
-
+**Currently:** Full-Stack Working Student | **Location:** Paderborn, Germany
 **Open to Relocation • Available Immediately • Valid Work Authorization**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-hegde)
