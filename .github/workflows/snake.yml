@@ -24,8 +24,8 @@ jobs:
         with:
           github_user_name: SamarthBengle
           outputs: |
-            dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif?color_background=#000000&color_snake=#00ff00&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/github-contribution-grid-snake.svg?palette=github-dark
       
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
