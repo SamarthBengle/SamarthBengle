@@ -2,10 +2,11 @@
 
 # Samarth Hegde
 
-### Full-Stack Developer | AI Enthusiast | MSc Computer Engineering @ University of Paderborn
+### Full-Stack Developer | AI Enthusiast | MSc in Computer Engineering @ University of Paderborn
 
-**Currently:** Full-Stack Working Student at Fraunhofer IEM, Paderborn  
+**Currently:** Full-Stack Working Student, Paderborn  
 **Location:** Paderborn, Germany
+**Open to Relocation • Available Immediately • Valid Work Authorization**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-hegde)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samarthhegdebengle.com)
@@ -21,21 +22,20 @@
 ## About Me
 
 Full-stack developer with a blend of software and creative experience, building AI-driven web applications using JavaScript, Node.js, Python frameworks, and LLMs in research and industry. Leveraging UI/UX and Graphic design skills to deliver end-to-end solutions from Figma concepts to scalable, high performance frontends and APIs.
-</div>
 
-- I'm currently working on **Sustainability tools and AI-driven applications at Fraunhofer IEM**
-- I'm currently learning **Advanced LLM integration, Neo4j graph databases, and CI/CD best practices**
-- I'm looking for **Working Student Opportunities**
-- Ask me about **Full-stack development, AI integration or UI/UX design**
-- Fun fact: **I combine my software engineering skills with graphic design to create both functional and beautiful applications!**
+
+I'm looking for **Working Student Opportunities**
+Ask me about **Full-stack development, AI integration or UI/UX design**
+Fun fact: **I combine my software engineering skills with graphic design to create both functional and beautiful applications!**
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Currently+Working+On&center=true&size=27&color=ffffff&width=500&height=50&font=Inter" alt="Currently Working On" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Currently+Working+On+!&center=true&size=27&color=ffffff&width=500&height=50&font=Inter&weight=bold" alt="Currently Working On!" />
 
-| ![Sustainability Tools](https://img.shields.io/badge/SUSTANABILITY_TOOLS-404040?style=for-the-badge&logo=briefcase&logoColor=white) <br><br> **Fraunhofer IEM** <br><br> _Full-Stack Working Student_ | ![Security Tools](https://img.shields.io/badge/SECURITY_TOOLS-404040?style=for-the-badge&logo=graduation-cap&logoColor=white) <br><br> **Student Assistant** <br><br> _University of Paderborn_ | ![AI Integration](https://img.shields.io/badge/AI_INTEGRATION-404040?style=for-the-badge&logo=sparkles&logoColor=white) <br><br> **AI Integration & Solutions** <br><br> _Building Intelligent Systems_ |
+| ![Sustainability Tools](https://img.shields.io/badge/SUSTANABILITY_TOOLS-404040?style=for-the-badge&logo=briefcase&logoColor=white) <br><br> **Fraunhofer IEM** <br><br> _Full-Stack Working Student_ | ![Security Tools](https://img.shields.io/badge/SECURITY_TOOLS-404040?style=for-the-badge&logo=graduation-cap&logoColor=white) <br><br> **Student Assistant** <br><br> _University of Paderborn_ | ![AI Integration](https://img.shields.io/badge/AI_INTEGRATION-404040?style=for-the-badge&logo=sparkles&logoColor=white) <br><br> **AI Projects** <br><br> _Building Intelligent Systems_ |
 |:---:|:---:|:---:|
 
 </div>
@@ -153,6 +153,5 @@ Full-stack developer with a blend of software and creative experience, building 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamarthBengle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthhegdebengle@gmail.com)
 
-**Open to Relocation • Available Immediately • Valid Work Authorization**
 
 </div>
