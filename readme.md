@@ -47,7 +47,7 @@ Full-stack developer with a blend of software and creative experience, building 
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=SamarthBengle&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=SamarthBengle&theme=radical&hide_border=false&type=png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SamarthBengle&color=blueviolet&style=for-the-badge)
 
@@ -59,7 +59,7 @@ Full-stack developer with a blend of software and creative experience, building 
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthBengle&layout=compact&theme=radical&hide_border=false&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthBengle&layout=compact&theme=radical&hide_border=false&langs_count=8&exclude_repo=SamarthBengle)
 
 </div>
 
