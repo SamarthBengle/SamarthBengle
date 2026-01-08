@@ -142,7 +142,7 @@ Full-stack developer with a blend of software and creative experience, building 
 ## Education
 
 **MSc, Computer Engineering** — University of Paderborn (Oct 2023–Present)  
-**B.E, Telecommunication Engineering** — VTU, India
+**Bachelor of Engineering, Telecommunication Engineering** — VTU, India
 
 </div>
 
@@ -155,5 +155,8 @@ Full-stack developer with a blend of software and creative experience, building 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamarthBengle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthhegdebengle@gmail.com)
 
+<br>
+
+**For more adventures>>>** [Instagram](https://www.instagram.com/samarth_bengle?igsh=eHM4NzBpcXdheGNn)
 
 </div>
