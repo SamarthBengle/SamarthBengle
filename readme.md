@@ -21,14 +21,13 @@
 ## About Me
 
 Full-stack developer with a blend of software and creative experience, building AI-driven web applications using JavaScript, Node.js, Python frameworks, and LLMs in research and industry. Leveraging UI/UX and Graphic design skills to deliver end-to-end solutions from Figma concepts to scalable, high performance frontends and APIs.
+</div>
 
 - I'm currently working on **Sustainability tools and AI-driven applications at Fraunhofer IEM**
 - I'm currently learning **Advanced LLM integration, Neo4j graph databases, and CI/CD best practices**
-- I'm looking to collaborate on **Open Source Projects, AI/ML applications, and Full-stack web development**
-- Ask me about **Full-stack development, AI integration, UI/UX design, or Graph databases**
+- I'm looking for **Working Student Opportunities**
+- Ask me about **Full-stack development, AI integration or UI/UX design**
 - Fun fact: **I combine my software engineering skills with graphic design to create both functional and beautiful applications!**
-
-</div>
 
 ---
 
@@ -36,7 +35,7 @@ Full-stack developer with a blend of software and creative experience, building 
 
 ## Currently Working On
 
-| ![Fraunhofer IEM](https://img.shields.io/badge/FRAUNHOFER_IEM-000000?style=for-the-badge&logo=briefcase&logoColor=white) **Fraunhofer IEM** <br> _Full-Stack Working Student_ | ![Student Assistant](https://img.shields.io/badge/STUDENT_ASSISTANT-808080?style=for-the-badge&logo=graduation-cap&logoColor=white) **Student Assistant** <br> _University of Paderborn_ | ![AI Integration](https://img.shields.io/badge/AI_INTEGRATION_&_SOLUTIONS-404040?style=for-the-badge&logo=sparkles&logoColor=white) **AI Integration & Solutions** <br> _Building Intelligent Systems_ |
+| ![Fraunhofer IEM](https://img.shields.io/badge/FRAUNHOFER_IEM-404040?style=for-the-badge&logo=briefcase&logoColor=white) <br> **Sustainability Tools** <br> _Full-Stack Working Student_ | ![Student Assistant](https://img.shields.io/badge/STUDENT_ASSISTANT-404040?style=for-the-badge&logo=graduation-cap&logoColor=white) <br> **Security Tools** <br> _University of Paderborn_ | ![AI Integration](https://img.shields.io/badge/AI_INTEGRATION_&_SOLUTIONS-404040?style=for-the-badge&logo=sparkles&logoColor=white) <br> **AI Integration & Solutions** <br> _Building Intelligent Systems_ |
 |:---:|:---:|:---:|
 
 </div>
