@@ -33,9 +33,9 @@ Full-stack developer with a blend of software and creative experience, building 
 
 <div align="center">
 
-## Currently Working On
+<img src="https://readme-typing-svg.demolab.com/?lines=Currently+Working+On&center=true&size=30&color=ffffff&width=500&height=50" alt="Currently Working On" />
 
-| ![Sustainability Tools](https://img.shields.io/badge/FRAUNHOFER_IEM-404040?style=for-the-badge&logo=briefcase&logoColor=white) <br><br> **Fraunhofer IEM** <br><br> _Full-Stack Working Student_ | ![Security Tools](https://img.shields.io/badge/STUDENT_ASSISTANT-404040?style=for-the-badge&logo=graduation-cap&logoColor=white) <br><br> **Student Assistant** <br><br> _University of Paderborn_ | ![AI Integration](https://img.shields.io/badge/AI_INTEGRATION_&_SOLUTIONS-404040?style=for-the-badge&logo=sparkles&logoColor=white) <br><br> **AI Integration & Solutions** <br><br> _Building Intelligent Systems_ |
+| ![Sustainability Tools](https://img.shields.io/badge/SUSTANABILITY_TOOLS-404040?style=for-the-badge&logo=briefcase&logoColor=white) <br><br> **Fraunhofer IEM** <br><br> _Full-Stack Working Student_ | ![Security Tools](https://img.shields.io/badge/SECURITY_TOOLS-404040?style=for-the-badge&logo=graduation-cap&logoColor=white) <br><br> **Student Assistant** <br><br> _University of Paderborn_ | ![AI Integration](https://img.shields.io/badge/AI_INTEGRATION-404040?style=for-the-badge&logo=sparkles&logoColor=white) <br><br> **AI Integration & Solutions** <br><br> _Building Intelligent Systems_ |
 |:---:|:---:|:---:|
 
 </div>
