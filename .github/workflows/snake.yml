@@ -20,49 +20,18 @@ jobs:
         uses: actions/checkout@v4
       
       - name: Generate snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk@master
+        id: snake-gif
         with:
           github_user_name: SamarthBengle
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
       
-      - name: Checkout output branch
-        uses: actions/checkout@v4
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        if: always()
         with:
-          ref: output
-          path: output
-          token: ${{ secrets.GITHUB_TOKEN }}
-        continue-on-error: true
-      
-      - name: Create output branch if it doesn't exist
-        if: failure()
-        run: |
-          git checkout --orphan output
-          git rm -rf . || true
-          echo "# Snake Animation Output" > README.md
-          git add README.md
-          git commit -m "Initial commit for output branch"
-          git push -u origin output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Copy generated files
-        run: |
-          mkdir -p output
-          cp -f dist/github-contribution-grid-snake.gif output/ 2>/dev/null || true
-          cp -f dist/github-contribution-grid-snake.svg output/ 2>/dev/null || true
-      
-      - name: Commit and push to output branch
-        working-directory: output
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Update snake animation [skip ci]"
-            git push origin output
-          else
-            echo "No changes to commit"
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          destination_dir: .
+          keep_files: false
+          branch: output
+          force_orphan: false

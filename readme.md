@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💻 Samarth Hegde
 
 ### Full-Stack Developer | AI Enthusiast | MSc Computer Engineering @ University of Paderborn
@@ -5,24 +7,39 @@
 **Currently:** Full-Stack Working Student at Fraunhofer IEM, Paderborn  
 **Location:** 🌍 Paderborn, Germany
 
-[LinkedIn](https://linkedin.com/in/samarth-hegde) [Portfolio](https://samarthhegdebengle.com) [Email](mailto:samarthhegdebengle@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-hegde)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samarthhegdebengle.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthhegdebengle@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamarthBengle)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<div align="center">
+
+Full-stack developer with a blend of software and creative experience, building AI-driven web applications using JavaScript, Node.js, Python frameworks, and LLMs in research and industry. Leveraging UI/UX and Graphic design skills to deliver end-to-end solutions from Figma concepts to scalable, high performance frontends and APIs.
+
+- 🔭 I'm currently working on **Sustainability tools and AI-driven applications at Fraunhofer IEM**
+- 🌱 I'm currently learning **Advanced LLM integration, Neo4j graph databases, and CI/CD best practices**
+- 👯 I'm looking to collaborate on **Open Source Projects, AI/ML applications, and Full-stack web development**
+- 💬 Ask me about **Full-stack development, AI integration, UI/UX design, or Graph databases**
+- ⚡ Fun fact: **I combine my software engineering skills with graphic design to create both functional and beautiful applications!**
+
+</div>
 
 ---
 
 ## 💡 Currently Working On
 
-| ![AI Integration](https://img.shields.io/badge/🤖_AI_INTEGRATION_&_SOLUTIONS-FF006E?style=for-the-badge&logo=sparkles&logoColor=white) **AI/LLM Integration** _Building Intelligent Systems & Automations_ | ![Thesis Research](https://img.shields.io/badge/🎓_THESIS_RESEARCH-9333EA?style=for-the-badge&logo=book&logoColor=white) **Knowledge Graphs** _Neo4j • GPT-4 • RAG_ | ![Fraunhofer](https://img.shields.io/badge/📍_FRAUNHOFER_IEM-00D9FF?style=for-the-badge&logo=briefcase&logoColor=white) **Full-Stack Engineer** _Working Student_ |
+<div align="center">
+
+| ![AI Integration](https://img.shields.io/badge/🤖_AI_INTEGRATION_&_SOLUTIONS-FF006E?style=for-the-badge&logo=sparkles&logoColor=white) **AI/LLM Integration** _Building Intelligent Systems & Automations_ | ![Sustainability](https://img.shields.io/badge/🌱_SUSTAINABILITY_TOOLS-00D9FF?style=for-the-badge&logo=leaf&logoColor=white) **Sustainability Tools** _Neo4j • React • Node.js_ | ![Fraunhofer](https://img.shields.io/badge/📍_FRAUNHOFER_IEM-9333EA?style=for-the-badge&logo=briefcase&logoColor=white) **Full-Stack Engineer** _Working Student_ |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-### ⚡ Tech Arsenal
-
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![GraphRAG](https://img.shields.io/badge/GraphRAG-FF6B6B?style=for-the-badge&logo=graph&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-4ECDC4?style=for-the-badge&logo=docker&logoColor=white)
-![AI/LLM](https://img.shields.io/badge/AI/LLM-FFD93D?style=for-the-badge&logo=brain&logoColor=black)
-![Event-Driven](https://img.shields.io/badge/Event--Driven-6BCB77?style=for-the-badge&logo=lightning&logoColor=white)
-
-**Status** • **Methodology** • **Mission**
+</div>
 
 ---
 
@@ -159,11 +176,14 @@
 
 ---
 
-### 🌟 "Code is poetry written in logic" 🌟
-
 <div align="center">
 
-[Portfolio](https://samarthhegdebengle.com) [LinkedIn](https://linkedin.com/in/samarth-hegde) [GitHub](https://github.com/SamarthBengle) [Email](mailto:samarthhegdebengle@gmail.com)
+### 🌟 "Code is poetry written in logic" 🌟
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samarthhegdebengle.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-hegde)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamarthBengle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthhegdebengle@gmail.com)
 
 ---
 
