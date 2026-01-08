@@ -47,7 +47,7 @@ Full-stack developer with a blend of software and creative experience, building 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthBengle&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=SamarthBengle)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 </div>
 
