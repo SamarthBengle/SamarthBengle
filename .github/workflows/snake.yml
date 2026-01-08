@@ -20,9 +20,12 @@ jobs:
         uses: actions/checkout@v4
       
       - name: Generate snake animation
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: SamarthBengle
+          outputs: |
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake.svg
       
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
