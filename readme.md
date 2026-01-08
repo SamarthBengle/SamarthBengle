@@ -43,23 +43,11 @@ Full-stack developer with a blend of software and creative experience, building 
 
 ---
 
-## 🔥 Contributions & Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SamarthBengle&theme=radical&hide_border=false)](https://git.io/streak-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SamarthBengle&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
 ## 📚 Most Used Languages
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthBengle&layout=compact&theme=radical&hide_border=false&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthBengle&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -69,9 +57,9 @@ Full-stack developer with a blend of software and creative experience, building 
 
 <div align="center">
 
-[![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarthBengle&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=SamarthBengle&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamarthBengle&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamarthBengle&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
