@@ -157,6 +157,6 @@ Full-stack developer with a blend of software and creative experience, building 
 
 <br>
 
-**For more adventures>>>** [Instagram](https://www.instagram.com/samarth_bengle?igsh=eHM4NzBpcXdheGNn)
+**For more adventures>>>** [Here](https://www.instagram.com/samarth_bengle?igsh=eHM4NzBpcXdheGNn)
 
 </div>
