@@ -21,7 +21,6 @@ jobs:
       
       - name: Generate snake animation
         uses: Platane/snk@master
-        id: snake-gif
         with:
           github_user_name: SamarthBengle
       
@@ -33,5 +32,5 @@ jobs:
           publish_dir: ./dist
           destination_dir: .
           keep_files: false
-          branch: output
-          force_orphan: false
+          publish_branch: output
+          force_orphan: true

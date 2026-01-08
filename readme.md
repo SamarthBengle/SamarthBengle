@@ -123,7 +123,7 @@ Full-stack developer with a blend of software and creative experience, building 
 
 <div align="center">
 
-![snake gif](https://github.com/SamarthBengle/SamarthBengle/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/SamarthBengle/SamarthBengle/output/github-contribution-grid-snake.gif)
 
 </div>
 
