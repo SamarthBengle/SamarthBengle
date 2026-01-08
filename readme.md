@@ -35,10 +35,7 @@ Full-stack developer with a blend of software and creative experience, building 
 
 ## Currently Working On
 
-<br>
-<br>
-
-| ![Fraunhofer IEM](https://img.shields.io/badge/FRAUNHOFER_IEM-404040?style=for-the-badge&logo=briefcase&logoColor=white) <br><br> **Sustainability Tools** <br><br> _Full-Stack Working Student_ | ![Student Assistant](https://img.shields.io/badge/STUDENT_ASSISTANT-404040?style=for-the-badge&logo=graduation-cap&logoColor=white) <br><br> **Security Tools** <br><br> _University of Paderborn_ | ![AI Integration](https://img.shields.io/badge/AI_INTEGRATION_&_SOLUTIONS-404040?style=for-the-badge&logo=sparkles&logoColor=white) <br><br> **AI Integration & Solutions** <br><br> _Building Intelligent Systems_ |
+| ![Sustainability Tools](https://img.shields.io/badge/FRAUNHOFER_IEM-404040?style=for-the-badge&logo=briefcase&logoColor=white) <br><br> **Fraunhofer IEM** <br><br> _Full-Stack Working Student_ | ![Security Tools](https://img.shields.io/badge/STUDENT_ASSISTANT-404040?style=for-the-badge&logo=graduation-cap&logoColor=white) <br><br> **Student Assistant** <br><br> _University of Paderborn_ | ![AI Integration](https://img.shields.io/badge/AI_INTEGRATION_&_SOLUTIONS-404040?style=for-the-badge&logo=sparkles&logoColor=white) <br><br> **AI Integration & Solutions** <br><br> _Building Intelligent Systems_ |
 |:---:|:---:|:---:|
 
 </div>
