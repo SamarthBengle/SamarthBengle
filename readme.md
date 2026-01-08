@@ -4,7 +4,8 @@
 
 ### Full-Stack Developer | AI Enthusiast | MSc in Computer Engineering @ University of Paderborn
 
-**Currently:** Full-Stack Working Student | **Location:** Paderborn, Germany
+**Currently:** Full-Stack Working Student  
+**Location:** Paderborn, Germany  
 **Open to Relocation • Available Immediately • Valid Work Authorization**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-hegde)
@@ -21,12 +22,12 @@
 ## About Me
 
 Full-stack developer with a blend of software and creative experience, building AI-driven web applications using JavaScript, Node.js, Python frameworks, and LLMs in research and industry. Leveraging UI/UX and Graphic design skills to deliver end-to-end solutions from Figma concepts to scalable, high performance frontends and APIs.
-
-
-I'm looking for **Working Student Opportunities**
-Ask me about **Full-stack development, AI integration or UI/UX design**
-Fun fact: **I combine my software engineering skills with graphic design to create both functional and beautiful applications!**
 </div>
+
+
+-- I'm looking for **Working Student Opportunities**
+-- Ask me about **Full-stack development, AI integration or UI/UX design**
+-- Fun fact: **I combine my software engineering skills with graphic design to create both functional and beautiful applications!**
 
 ---
 
