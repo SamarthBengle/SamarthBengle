@@ -33,7 +33,7 @@ Full-stack developer with a blend of software and creative experience, building 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Currently+Working+On!&center=true&size=28&color=FFFFFF&width=500&height=50&font=Inter&weight=700&duration=1&pause=1000" alt="Currently Working On!" />
+<img src="https://readme-typing-svg.vercel.app/?lines=Currently+Working+On!&center=true&size=30&color=ffffff&width=500&height=50" alt="Currently Working On!" />
 
 | ![Sustainability Tools](https://img.shields.io/badge/SUSTANABILITY_TOOLS-404040?style=for-the-badge&logo=briefcase&logoColor=white) <br><br> **Fraunhofer IEM** <br><br> _Full-Stack Working Student_ | ![Security Tools](https://img.shields.io/badge/SECURITY_TOOLS-404040?style=for-the-badge&logo=graduation-cap&logoColor=white) <br><br> **Student Assistant** <br><br> _University of Paderborn_ | ![AI Integration](https://img.shields.io/badge/AI_INTEGRATION-404040?style=for-the-badge&logo=sparkles&logoColor=white) <br><br> **AI Projects** <br><br> _Building Intelligent Systems_ |
 |:---:|:---:|:---:|
