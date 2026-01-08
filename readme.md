@@ -43,27 +43,25 @@ Full-stack developer with a blend of software and creative experience, building 
 
 ---
 
-## 🔥 Contributions & Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=SamarthBengle&theme=radical&hide_border=false" alt="GitHub Streak" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=SamarthBengle&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
 ## 📚 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthBengle&layout=compact&theme=radical&hide_border=false&langs_count=8&exclude_repo=SamarthBengle" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthBengle&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
 
 </div>
 
 ---
+
+## 📈 Samarth's GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SamarthBengle&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamarthBengle&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+
+</div>
 
 ## 🛠️ Tech Stack
 
