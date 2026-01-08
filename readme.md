@@ -57,7 +57,7 @@ Full-stack developer with a blend of software and creative experience, building 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SamarthBengle&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SamarthBengle)](https://git.io/streak-stats)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamarthBengle&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 
