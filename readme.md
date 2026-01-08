@@ -25,9 +25,9 @@ Full-stack developer with a blend of software and creative experience, building 
 
 <div align="center">
 
-• I'm looking for **Working Student Opportunities**  
-• Ask me about **Full-stack development, AI integration or UI/UX design**  
-• Fun fact: **I combine my software engineering skills with graphic design to create both functional and beautiful applications!**
+• I'm looking for **Working Student Opportunities** •
+• Ask me about **Full-stack development, AI integration or UI/UX design** •
+• Fun fact: **I combine my software engineering skills with graphic design to create both functional and beautiful applications!** •
 
 </div>
 
