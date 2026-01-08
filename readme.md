@@ -57,7 +57,7 @@ Full-stack developer with a blend of software and creative experience, building 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SamarthBengle)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SamarthBengle&theme=dark)](https://git.io/streak-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SamarthBengle&color=blueviolet&style=for-the-badge)
 
