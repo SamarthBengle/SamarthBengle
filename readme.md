@@ -47,7 +47,7 @@ Full-stack developer with a blend of software and creative experience, building 
 
 <div align="center">
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=SamarthBengle)](https://github.com/pranesh-2005/github-readme-stats-fast)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthBengle"/>
 
 </div>
 
